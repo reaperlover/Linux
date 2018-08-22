@@ -1,0 +1,2 @@
+yum -y install gcc
+#./configuration command needs gcc package.
